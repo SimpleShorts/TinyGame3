@@ -72,3 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Logs
+*.log
+
+#Windows builds
+Windows/*
+
+#Static Starter Content
+Content/StarterContent/*
